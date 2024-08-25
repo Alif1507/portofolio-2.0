@@ -6,5 +6,5 @@ window.addEventListener('load', function() {
       document.getElementById('loading').style.opacity = '0';
       document.getElementById('loading').style.visibility = 'hidden';
 
-  }, 000); 
+  }, 5000); 
 });
